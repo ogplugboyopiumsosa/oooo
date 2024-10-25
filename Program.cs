@@ -10,6 +10,8 @@ namespace egor
     {
         static void Main(string[] args)
         {
+            //координаты
+            //длина отрезка
         }
     }
 }
